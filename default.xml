@@ -27,7 +27,7 @@
      <copyfile src="imx/README" dest="README-IMXBSP"/>
   </project>
   
-  <project remote="IMS-SE01" revision="b270ba1c3fd52d27db0371e843552c7e26ff0582" name="meta-advantech-arm-extra" path="sources/meta-advantech-arm-extra"/>
+  <project remote="IMS-SE01" revision="4c900742c77c8932414633fca1447aa15be8e66b" name="meta-advantech-arm-extra" path="sources/meta-advantech-arm-extra"/>
 
   <project remote="IMS-SE01" revision="2ea01d2249d40cd9c3412023bfc0edb2dabef267" name="base" path="sources/base">
      <copyfile dest="README" src="README"/>
